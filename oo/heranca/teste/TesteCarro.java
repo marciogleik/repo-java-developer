@@ -24,57 +24,18 @@ public class TesteCarro {
 		
 		System.out.println("velocidade city => " + city.velocidadeAtual);
 		
-		Carro bugatti = new Bugatti();
+		Bugatti bugatti = new Bugatti();
+		bugatti.acelerar();
+		bugatti.acelerar();
+		bugatti.acelerar(); 
+		bugatti.acelerar();
+		bugatti.acelerar();
+		bugatti.ligarTurbo();
 		bugatti.acelerar();
 		bugatti.acelerar();
 		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-		bugatti.acelerar();
-
+		
+		System.out.println(bugatti.velocidadeDoAr());
 		
 		System.out.println("velocidade bugatti => " + bugatti.velocidadeAtual);
 		
