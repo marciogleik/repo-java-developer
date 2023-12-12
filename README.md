@@ -69,4 +69,19 @@ Necessário a instalação da JDK / OpenJDK(Free)
 
 <br>
 
+<h2> 🤝 Contribuindo </h2>
+
+Este repositório foi criado para fins de estudo, então contribua com ele.
+
+Se possível:
+
+⭐️  Star o projeto
+
+🐛 Encontrar e relatar issues
+
+
+------------
+
+Disponibilizado com carinho por [marcio gleik](https://www.linkedin.com/in/marciogleikdev/ "marciogleik").
+
 
