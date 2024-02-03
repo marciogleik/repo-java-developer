@@ -82,6 +82,6 @@ Se possível:
 
 ------------
 
-Disponibilizado com carinho por [marcio gleik](https://www.linkedin.com/in/marciogleikdev/ "marciogleik").
+[marcio gleik](https://www.linkedin.com/in/marciogleikdev/ "marciogleik").
 
 
